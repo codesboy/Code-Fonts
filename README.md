@@ -5,3 +5,5 @@
 3. Monaco
 4. Ubuntu Mono
 5. DejaVu Sans Mono
+
+PS:如果您有更美丽的字体，您可以通过[issues](https://github.com/codesboy/Code-Fonts/issues)告知我们
