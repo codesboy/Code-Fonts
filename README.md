@@ -1,9 +1,10 @@
-###ÊÕ¼¯±à³ÌÖĞ¿ÉÒÔÓÃµ½µÄÒ»Ğ©Æ¯ÁÁ×ÖÌå
-####ÔÚÎÒµÄsublimeÖĞÎÒ×îÏ²°®µÄ×ÖÌå£º
-1. Consolas
-2. Menlo
-3. Monaco
+###æ”¶é›†ç¼–ç¨‹ä¸­å¯ä»¥ç”¨åˆ°çš„ä¸€äº›æ¼‚äº®å­—ä½“
+####åœ¨æˆ‘çš„sublimeä¸­æˆ‘æœ€å–œçˆ±çš„å­—ä½“ï¼š
+1.Cascadia Code
+1. Menlo
+2. Monaco
+3. Consolas
 4. Ubuntu Mono
 5. DejaVu Sans Mono
 
-PS:Èç¹ûÄúÓĞ¸üÃÀÀöµÄ×ÖÌå£¬Äú¿ÉÒÔÍ¨¹ı[issues](https://github.com/codesboy/Code-Fonts/issues)¸æÖªÎÒÃÇ
+PS:å¦‚æœæ‚¨æœ‰æ›´ç¾ä¸½çš„å­—ä½“ï¼Œæ‚¨å¯ä»¥é€šè¿‡[issues](https://github.com/codesboy/Code-Fonts/issues)å‘ŠçŸ¥æˆ‘ä»¬
